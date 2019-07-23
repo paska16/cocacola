@@ -1,5 +1,5 @@
 
-# BEGIN WordPress
+# BEGIN WordPress11222222
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /
@@ -9,4 +9,4 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /index.php [L]
 </IfModule>
 
-# END WordPress
+# END WordPress222222
